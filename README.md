@@ -34,6 +34,7 @@ I solve real user problems and bring ideas to life end-to-end — from product t
 ### 🧰 Toolbox
 
 **Design** &nbsp;·&nbsp; Framer &nbsp;·&nbsp; Figma &nbsp;·&nbsp; prototyping & product thinking
+<br>
 **Build** &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; SwiftUI &nbsp;·&nbsp; Swift
 
 ### 📫 Get in touch
