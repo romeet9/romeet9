@@ -38,6 +38,6 @@ I solve real user problems and bring ideas to life end-to-end — from product t
 
 ### 📫 Get in touch
 
-<a href="https://romeet.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp; <i>Email & LinkedIn — coming soon</i>
+<a href="https://romeet.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/romeet-chatterjee"><b>LinkedIn</b></a>
 
 <sub align="center">Product designer who ships. Always building something.</sub>
