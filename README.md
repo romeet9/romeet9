@@ -1,62 +1,88 @@
-<h1 align="center">Hi, I'm Romeet 👋</h1>
-
+<br/>
 <p align="center">
-  <b>Product Designer</b> — shipping real, vibe-coded products.
+  <img width="120px" alt="Romeet Chatterjee" src="https://github.com/romeet9.png">
 </p>
 
-<p align="center">
-  <sub>📍 Mumbai &nbsp;·&nbsp; 🏢 12 Grids &nbsp;·&nbsp; Designing & building across web, iOS & macOS</sub>
-</p>
+<h3 align="center">Romeet Chatterjee</h3>
+<p align="center">Product designer who ships.<br/>I take products from a rough idea to real, polished code across <b>web</b>, <b>iOS</b> and <b>macOS</b>.</p>
+
+<br/>
 
 <p align="center">
-  <a href="https://romeet.vercel.app"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/romeet-chatterjee"><b>LinkedIn</b></a>
+  <a href="https://romeet.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-romeet.vercel.app-7928ca?style=for-the-badge&labelColor=2a1145&logo=vercel&logoColor=ffffff"></a> &nbsp;<a href="https://www.linkedin.com/in/romeet-chatterjee"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-romeet--chatterjee-0a66c2?style=for-the-badge&labelColor=0b2a4a&logo=linkedin&logoColor=ffffff"></a>
+</p>
+<p align="center">
+  <img alt="Based in Mumbai" src="https://img.shields.io/badge/Based_in-Mumbai-15803d?style=for-the-badge&labelColor=14532d"> &nbsp;<img alt="Product Designer at 12 Grids" src="https://img.shields.io/badge/Product_Designer-12_Grids-d97757?style=for-the-badge&labelColor=3b2219">
 </p>
 
-<br>
+<h1 aria-hidden="true"></h1>
+
+<br/>
 
 <p align="center">
-  <img src="assets/stats.png" width="900" alt="Product Designer · works across Web, iOS & macOS · based in Mumbai · builds end-to-end">
+  <img src="assets/stats.png" width="100%" alt="Product Designer · works across Web, iOS and macOS · based in Mumbai · builds end-to-end">
 </p>
 
----
+<br/>
 
-### 👋 About
+## ✨ About
 
-I solve real user problems and bring ideas to life end-to-end — from product thinking and UX all the way to shipping the code. I work across **web, iOS, and macOS**, and I like taking a product from a rough idea to something real, polished, and usable.
+- **Design to code.** I do the product thinking and the UX, then build it myself, so what ships is what was designed.
+- **Native where it matters.** Next.js and React on the web, SwiftUI on iOS and macOS.
+- **Built with AI agents.** I work alongside coding agents every day, and I build tools to make that faster.
 
----
-
-### 🚀 Featured work
+## 🚀 Projects
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/romeet9/tasky-ai"><img src="assets/tasky.png" alt="TaskyAI — AI task planner (Next.js 15, Firebase, Gemma 4)"></a></td>
-    <td width="50%"><a href="https://github.com/romeet9/InspoFlow"><img src="assets/inspoflow.png" alt="InspoFlow — AI-powered iOS inspiration timeline (SwiftUI)"></a></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/romeet9/claude-tui"><img src="assets/claude-tui.png" alt="claude-tui running three agents in a bento grid"></a>
+      <h3><a href="https://github.com/romeet9/claude-tui">claude-tui</a></h3>
+      A full-screen terminal workspace for coding agents. Run Claude Code, Codex and Antigravity side by side.
+      <br/><br/>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Ink-3178c6?style=flat-square&labelColor=0f2a4a&logo=typescript&logoColor=ffffff"> <img alt="macOS" src="https://img.shields.io/badge/macOS-Terminal-333333?style=flat-square&labelColor=111111&logo=apple&logoColor=ffffff">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/romeet9/Notsky"><img src="assets/notsky.png" alt="Notsky notes and AI workspace on the macOS desktop"></a>
+      <h3><a href="https://github.com/romeet9/Notsky">Notsky</a></h3>
+      Liquid Glass desktop notes and a local AI workspace for macOS, with focus timers and on-device document search.
+      <br/><br/>
+      <img alt="Swift" src="https://img.shields.io/badge/Swift-SwiftUI-f05138?style=flat-square&labelColor=3d150d&logo=swift&logoColor=ffffff"> <img alt="macOS" src="https://img.shields.io/badge/macOS-14+-333333?style=flat-square&labelColor=111111&logo=apple&logoColor=ffffff">
+    </td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/romeet9/ClaudeBar"><img src="assets/claudebar.png" alt="ClaudeBar — menu-bar app to resume Claude Code sessions (SwiftUI)"></a></td>
-    <td width="50%"><a href="https://github.com/romeet9/Pulse"><img src="assets/pulse.png" alt="Pulse — menu-bar macOS system cleaner with Liquid Glass UI"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/romeet9/CATalyst"><img src="assets/catalyst.png" alt="CATalyst — study companion for CAT & XAT aspirants (SwiftUI, SwiftData)"></a></td>
-    <td width="50%"><a href="https://romeet.vercel.app"><b>&nbsp;&nbsp;→ See more on my portfolio</b></a></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/romeet9/romeet-portfolio"><img src="assets/portfolio.png" alt="Portfolio home page with case study cards"></a>
+      <h3><a href="https://github.com/romeet9/romeet-portfolio">Portfolio</a></h3>
+      My design portfolio, built as a product dashboard: web, iOS and macOS case studies. Live at <a href="https://romeet.vercel.app">romeet.vercel.app</a>.
+      <br/><br/>
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-111111?style=flat-square&labelColor=000000&logo=nextdotjs&logoColor=ffffff"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-4-38b2ac?style=flat-square&labelColor=0f3a38&logo=tailwindcss&logoColor=ffffff">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br/><br/>
+      <a href="https://github.com/romeet9/greenloom-ui"><img src="assets/loom-ui.svg" width="96" alt="Loom UI emblem"></a>
+      <br/><br/>
+      <h3><a href="https://github.com/romeet9/greenloom-ui">Loom UI</a></h3>
+      The design system and accessible component library for Green Loom, for React and React Native.
+      <br/><br/>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-React-3178c6?style=flat-square&labelColor=0f2a4a&logo=typescript&logoColor=ffffff"> <img alt="Accessibility" src="https://img.shields.io/badge/WCAG-AAA-15803d?style=flat-square&labelColor=14532d">
+    </td>
   </tr>
 </table>
 
-> **TaskyAI** is live — [try the app](https://task-planner-seven-zeta.vercel.app) or the [guided demo](https://task-planner-seven-zeta.vercel.app/demo) (no signup).
+## 🧰 Toolbox
 
----
+| | |
+| --- | --- |
+| **Design** | Figma · Framer · prototyping · product thinking |
+| **Web** | Next.js · React · TypeScript · Tailwind · Firebase |
+| **Apple** | SwiftUI · Swift · SwiftData |
+| **AI** | Claude Code · Codex · Antigravity · MCP |
 
-### 🧰 Toolbox
+## 📫 Get in touch
 
-**Design** &nbsp;·&nbsp; Framer &nbsp;·&nbsp; Figma &nbsp;·&nbsp; prototyping & product thinking
-<br>
-**Build** &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; SwiftUI &nbsp;·&nbsp; Swift
+The best way to reach me is [LinkedIn](https://www.linkedin.com/in/romeet-chatterjee). More of my work, including the projects that aren't public, is on my [portfolio](https://romeet.vercel.app).
 
----
+<h1 aria-hidden="true"></h1>
 
-### 📫 Get in touch
-
-<a href="https://romeet.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/romeet-chatterjee"><b>LinkedIn</b></a>
-
-<sub>Product designer who ships. Always building something.</sub>
+<p align="center">Always building something. 🛠️</p>
