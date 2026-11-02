@@ -1,23 +1,15 @@
-<br/>
-<p align="center">
-  <img width="120px" alt="Romeet Chatterjee" src="https://github.com/romeet9.png">
-</p>
+## Romeet Chatterjee
 
-<h3 align="center">Romeet Chatterjee</h3>
-<p align="center">Product designer who ships.<br/>I take products from a rough idea to real, polished code across <b>web</b>, <b>iOS</b> and <b>macOS</b>.</p>
+Product designer who ships. I take products from a rough idea to polished, working code across **web**, **iOS** and **macOS**, working alongside AI coding agents. Currently a product designer at **12 Grids** in Mumbai, and building [claude-tui](https://github.com/romeet9/claude-tui), a terminal workspace for running Claude Code, Codex and Antigravity side by side.
 
-<br/>
-
-<p align="center">
+<p>
   <a href="https://romeet-chatterjee.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-romeet--chatterjee.vercel.app-7928ca?style=for-the-badge&labelColor=2a1145&logo=vercel&logoColor=ffffff"></a> &nbsp;<a href="https://www.linkedin.com/in/romeet-chatterjee"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-romeet--chatterjee-0a66c2?style=for-the-badge&labelColor=0b2a4a&logo=linkedin&logoColor=ffffff"></a>
 </p>
-<p align="center">
+<p>
   <img alt="Based in Mumbai" src="https://img.shields.io/badge/Based_in-Mumbai-15803d?style=for-the-badge&labelColor=14532d"> &nbsp;<img alt="Product Designer at 12 Grids" src="https://img.shields.io/badge/Product_Designer-12_Grids-d97757?style=for-the-badge&labelColor=3b2219">
 </p>
 
 <h1 aria-hidden="true"></h1>
-
-<br/>
 
 ## ✨ About
 
@@ -43,4 +35,4 @@ The best way to reach me is [LinkedIn](https://www.linkedin.com/in/romeet-chatte
 
 <h1 aria-hidden="true"></h1>
 
-<p align="center">Always building something. 🛠️</p>
+Always building something. 🛠️
